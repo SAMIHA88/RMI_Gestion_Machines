@@ -2,7 +2,8 @@
 # Mon Application Java Swing de Gestion des Machines "MachinOps"
 
 Ceci est une application Java Swing qui utilise MySQL et RMI pour gérer les machines et les salles d'un établissement. Cet application permet d'ajouter, modifier ou supprimer une salle ou une machine et elle permet de rechercher une machine par la salle où elle se trouve.
-![ManiOps](url_vers_image_base_de_donnees.png)
+![MachinOps](https://github.com/SAMIHA88/RMI_Gestion_Machines/assets/81178741/04a9c0b3-8149-40b0-9f3f-ae4a37eb4752)
+
 ## Technologies Utilisées
 
 - Java Swing: est une bibliothèque graphique pour la création d'interfaces utilisateur (UI) en Java. 
