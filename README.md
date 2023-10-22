@@ -3,7 +3,7 @@
 
 Ceci est une application Java Swing qui utilise MySQL et RMI pour gérer les machines et les salles d'un établissement. Cette application permet d'ajouter, modifier ou supprimer une salle ou une machine, et elle permet de rechercher une machine par la salle où elle se trouve.
 
-![Capture d'écran de MachinOps](https://github.com/SAMIHA88/RMI_Gestion_Machines/blob/main/assets/81178741/04a9c0b3-8149-40b0-9f3f-ae4a37eb4752.png)
+![Capture d'écran de MachinOps]([https://github.com/SAMIHA88/RMI_Gestion_Machines/blob/main/assets/81178741/04a9c0b3-8149-40b0-9f3f-ae4a37eb4752.png](https://github.com/SAMIHA88/RMI_Gestion_Machines/issues/1#issue-1955984784))
 
 ## Technologies Utilisées
 
