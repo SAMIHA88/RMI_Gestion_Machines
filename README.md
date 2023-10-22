@@ -12,12 +12,15 @@ Ceci est une application Java Swing qui utilise MySQL et RMI pour gérer les mac
 
 ## Diagramme de Classes UML
 
-![Diagramme de Classes](url_vers_image_diagramme_classes.png)
+![Diagramme de Classes](https://github.com/SAMIHA88/RMI_Gestion_Machines/assets/81178741/3d99d44c-41db-4391-9e41-e003daeac006)
+
+
 
 ## Base de Données MySQL
 
-![Base de Données MySQL](url_vers_image_base_de_donnees.png)
+![Base de Données MySQL](https://github.com/SAMIHA88/RMI_Gestion_Machines/assets/81178741/d7bdadfb-e3a7-45b5-9033-e7951a03bf91)
+
 
 ## Vidéo de Démo
 
-Regardez une démonstration de l'application  : [Vidéo de Démonstration](url_vers_video_demo)
+Regardez une démonstration de l'application  : [Vidéo de Démonstration](https://github.com/SAMIHA88/RMI_Gestion_Machines/assets/81178741/bbc788c6-bdee-4be5-98b4-195dc031ba3f)
